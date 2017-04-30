@@ -1,3 +1,3 @@
 # Algorithms
 
-A collection of algorithms I've worked through during the FreeCodeAcademy problem sets.
+A collection of algorithms I've worked through during the FreeCodeCamp problem sets.
